@@ -10,6 +10,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Hello business central world');
+        Message('App published: Hello business central big world');
     end;
 }
